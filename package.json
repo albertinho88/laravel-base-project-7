@@ -29,7 +29,7 @@
         "@coreui/icons": "0.3.0",
         "animate.css": "^3.7.2",
         "bootstrap": "^4.5.0",
-        "chart.js": "2.7.3",
+        "chart.js": "2.9.4",
         "core-js": "^2.6.5",
         "datatables.net-bs4": "^1.10.19",
         "flag-icon-css": "^3.2.1",
